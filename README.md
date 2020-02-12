@@ -1,16 +1,3 @@
-# React Crash Course (TodoList)
+# TodoList
 
-This is the code for the crash course on YouTube
-
-## Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Serve on localhost:3000
-npm start
-
-# Build for production
-npm run build
-```
+refrence https://www.youtube.com/watch?v=sBws8MSXN7A&t=724s 
